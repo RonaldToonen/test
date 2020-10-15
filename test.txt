@@ -1,2 +1,4 @@
 Dit is de eerste test; versie 1
 Dit is de tweede versie; versie 2.0
+
+Deze regel voeg ik bij de master toe.
